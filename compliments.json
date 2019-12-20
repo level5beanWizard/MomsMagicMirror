@@ -3,13 +3,17 @@
         "Courtney and Ray Love you more than anything!",
         "Colton, Emma, Maddison, and Myles love you!",
         "Caroline, James, and Adalynn love you!",
-        "Wow! Ray is such a great son"
+        "Wow! Ray is such a great son",
+        "You look great!",
+        "It's beginning to look a lot like Christmas!"
     ],
     "morning" : [
         "Good Morning!", 
         "Time for Coffee!",
-        "Hurry! House Hunter's is on!",
-        "You look great this morning!"
+        "Hurry! Get the wine, House Hunter's is on!",
+        "You look great this morning!",
+        "I hope you have a wonderful day!",
+        "I am not a morning person"
     ], 
     "afternoon" : [
         "I was a great Christmas gift wasn't I?",
@@ -18,8 +22,14 @@
         "Y'all are wonderful parents (:"
     ],
     "evening" : [
-        
-        "I am more than a mirror!"
+        "Jeopardy?",
+        "If it's Monday we can watch Antique Roadshow!",
+        "Don't make Tuna noodle casserole for dinner. Please",
+        "Good night!",
+        "Sweet dreams!",
+        "What's for supper?",
+        "Need a beer Tony? Make Ray get it for ya",
+        "You did great today, I just know it"
     ]
 }
       
