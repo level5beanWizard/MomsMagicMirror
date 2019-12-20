@@ -1,0 +1,28 @@
+{
+    "anytime" : [
+        "Courtney and Ray Love you more than anything!",
+        "Colton, Emma, Maddison, and Myles love you!",
+        "Caroline, James, and Adalynn love you!",
+        "Wow Ray is such a great son"
+    ],
+    "morning" : [
+        "Good Morning!", 
+        "Time for Coffee!",
+        "Hurry! House Hunter's is on!",
+        "You look great this morning!"
+    ], 
+    "afternoon" : [
+        "I was a great Christmas gift wasn't I?",
+        "Don't put beans in your nose!",
+        "It's a great day to sit on the couch",
+        "Y'all are wonderful parents (:"
+    ],
+    "evening" : [
+        "Jeopardy?",
+        "If it's Monday we can watch Antique Roadshow!",
+        "Don't make Tuna noodle casserole for dinner. Please",
+        "Good night!",
+        "What's for supper?"
+    ]
+}
+      
